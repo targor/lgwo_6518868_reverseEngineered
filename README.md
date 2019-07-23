@@ -6,7 +6,9 @@ Because the Liwago support has a lack of open source data distribution when it c
 The Project is built in Java / Swing / Netbeans
 
 -Runs with Linux and windows.
+
 -Open source :)
+
 -Runs with RS232 to USB adapters.
 
 Features implemented so far:
