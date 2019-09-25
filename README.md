@@ -1,4 +1,4 @@
-# lwgo_6518868_reverseEngineered-
+# lgwo_6518868_reverseEngineered-
 Ligawo 6518868 alternative gui 
 
 Because the Ligawo support has a lack of open source data distribution when it comes to the RS232 interface, here is a reverse engineered version for you.. also runs with RS232 to USB adapters.
